@@ -21,10 +21,10 @@ const Header = () => {
         <div className="flex items-center gap-4">
           <div className="flex items-center gap-2">
             <div className="w-8 h-8 bg-gradient-to-br from-purple-500 to-blue-500 rounded-lg flex items-center justify-center">
-              <span className="text-white font-bold text-sm">VE</span>
+              <span className="text-white font-bold text-sm">MF</span>
             </div>
             <div>
-              <h1 className="text-xl font-bold gradient-text">VideoEdit Pro</h1>
+              <h1 className="text-xl font-bold gradient-text">MagicFrame Ai</h1>
               <p className="text-xs text-muted-foreground">by Mannat Walia</p>
             </div>
           </div>
